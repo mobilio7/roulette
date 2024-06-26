@@ -41,4 +41,5 @@ let spinBtnColor = 'white'
 export { wheelBackColor, outerBorderColor, radiusLineColor, textColors, spinBtnBackColor, spinBtnColor }
 ```
 5. append .env file
-  - you need kakao developer api key
+  - you need kakao developer api javascript app key
+  - if you want to check kakao share button in localhost, you **have to** append localhost dependency at kakao developers
